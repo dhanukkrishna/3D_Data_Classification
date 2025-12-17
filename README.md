@@ -24,6 +24,15 @@ This project implements and evaluates a deep learning–based 3D point cloud cla
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/d5ff112e-2c98-408f-b4d7-71458e5ce011" />
 <img width="1084" height="762" alt="image" src="https://github.com/user-attachments/assets/b80ce59e-9c6d-4a1d-9c56-b0654ef56777" />
 
+<h2>Refrence</h2>
+https://github.com/yanx27/Pointnet_Pointnet2_pytorch/tree/master?tab=readme-ov-file#pytorch-implementation-of-pointnet-and-pointnet
+PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
+Charles R. Qi Li Yi HaoSu LeonidasJ.Guibas
+Stanford University
+
+<p><h2>This blog holds all the process my project.
+<a href="https://medium.com/@dhanuk_21/classification-of-3d-point-cloud-data-9962cd30ade6"> Blog </a></h2></p>
+
 
 
 
