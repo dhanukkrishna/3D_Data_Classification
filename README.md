@@ -13,6 +13,13 @@ This project implements and evaluates a deep learning–based 3D point cloud cla
   <li>Analyze training and validation performance</li>
   <li>Evaluate classification accuracy and loss behavior</li>
 </ul>
+
+<h2>Dataset used</h2>
+<p><ul>
+  <li>The dataset used <a href="https://drive.google.com/drive/folders/1oIVVyV6G4ABz4VENFUHTNOag2Cb6LKyR?usp=drive_link">ModelNet10</a></li>
+  <li><img width="693" height="292" alt="image" src="https://github.com/user-attachments/assets/d1ae5177-ce83-49bd-bbde-56fe90383b34" />
+</li>
+</ul>
 </p>
 <h2>Architecture of PointNet++ </h2>
 <img width="1270" height="517" alt="image" src="https://github.com/user-attachments/assets/cd59077e-f1ee-4ba7-acf8-c7a56fdc635b" />
