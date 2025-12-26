@@ -1,1 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Image Upload</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f6f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .upload-box {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            width: 400px;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .upload-box h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .upload-box p {
+            color: #666;
+            font-size: 15px;
+            margin-bottom: 20px;
+        }
+
+        .upload-box input[type="file"] {
+            display: block;
+            margin: 15px auto;
+        }
+
+        .upload-box button {
+            background-color: #2196f3;
+            color: white;
+            border: none;
+            padding: 10px 18px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .upload-box button:hover {
+            background-color: #1976d2;
+        }
+    </style>
+</head>
+<body>
+
+<div class="upload-box">
+    <h2>Work Progress Upload</h2>
+    <p>I am uploading the images from my works during the work.</p>
+
+    <input type="file" accept="image/*" multiple>
+    <button>Upload Images</button>
+</div>
+
+</body>
+</html>
 
