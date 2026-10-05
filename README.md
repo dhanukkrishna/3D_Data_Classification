@@ -8,7 +8,7 @@ This project implements and evaluates a deep learning–based 3D point cloud cla
 
 <h2>Objective</h2>
 <p><ul>
-  <li>Implement ModelNet++ architecture for 3D object classification</li>
+  <li>Implement PointNet++ architecture for 3D object classification</li>
   <li>Train the network on ModelNet dataset</li>
   <li>Analyze training and validation performance</li>
   <li>Evaluate classification accuracy and loss behavior</li>
