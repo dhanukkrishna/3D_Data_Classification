@@ -4,7 +4,7 @@
 </p>
 <p>📌 Overview
 
-This project implements and evaluates a deep learning–based 3D point cloud classification framework using the PointNet++ architecture. The work focuses on learning discriminative features directly from raw point cloud data and performing object classification on the ModelNet dataset. The architecture follows the hierarchical feature learning strategy inspired by PointNet++. This work is perfomed during the time interval of my intership <a href="https://ank-world.org/about">Ank Computing.</a></p>
+This project implements and evaluates a deep learning–based 3D point cloud classification framework using the PointNet++ architecture. The work focuses on learning discriminative features directly from raw point cloud data and performing object classification on the ModelNet dataset. The architecture follows the hierarchical feature learning strategy inspired by PointNet++. This work is perfomed during the time of my intership <a href="https://ank-world.org/about">Ank Computing.</a></p>
 
 <h2>Objective</h2>
 <p><ul>
